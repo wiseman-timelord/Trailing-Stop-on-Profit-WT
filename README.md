@@ -1,5 +1,11 @@
 # Trailing Stop on Profit-WT
 
+# DEVELOPMENT:
+Alpha stage - Not Working. Current work is..
+- Remove display and replace with simpler code.
+- Check the logic and sanity of the script.
+- Optimise functions.
+
 ## DESCRIPTION:
 The Trailing Stop on Profit is an expert advisor for MT5 developed by EarnForex.com, and now forked by Wiseman-Timelord. Here is the [Original Project](https://github.com/EarnForex/Trailing-Stop-on-Profit). The EA automatically trails stop-losses of trades filtered according to your preferences and only when a trade has reached a certain number of profit points.
 
