@@ -2,7 +2,6 @@
 
 # DEVELOPMENT:
 Alpha stage - Not Working. Current work is..
-- Remove display and replace with simpler code.
 - Check the logic and sanity of the script.
 - Optimise functions.
 
