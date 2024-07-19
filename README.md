@@ -11,7 +11,7 @@ The Trailing Stop on Profit is an expert advisor for MT5 developed by EarnForex.
 
 ### FEATURES:
 - It has a lot less code, things are optimized, thus better to edit with AI.
-- It has cut-down features, features I wont use, are, cut or hardcoded.
+- It has cut-down features, features I wont use are, cut or hardcoded.
 - It has text overlay instead of graphic, this enables display of information.
 
 ## NOTATION:
