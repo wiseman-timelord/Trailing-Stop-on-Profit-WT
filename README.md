@@ -15,7 +15,7 @@ The Trailing Stop on Profit is an expert advisor for MT5 developed by EarnForex.
 - It has text overlay instead of graphic, this enables display of information.
 
 ## NOTATION:
-- A detailed description of the Original Expert Advisor is [Available Here](https://www.earnforex.com/metatrader-expert-advisors/Trailing-Stop-on-Profit/). If you have any suggestions for improvement of this expert advisor, please fork your own version, I dont care so much about other people projects.
+- A detailed description of the Original Expert Advisor is [Available Here](https://www.earnforex.com/metatrader-expert-advisors/Trailing-Stop-on-Profit/).
 
 ## WARNINGS:
 - I advise people use the original, as my Mql5 code typically requires more, testing and bugfixing, additionally this is a fork, so I may not inspect all of the code in the original version of the software. You are responsible for any, money lost or hardware broken.
