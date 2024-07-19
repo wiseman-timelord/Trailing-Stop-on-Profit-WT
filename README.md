@@ -1,4 +1,4 @@
-# Trailing Stop on Profit-WT
+# Trailing Stop on Profit - WT
 
 # DEVELOPMENT:
 Alpha stage - Not Working. Current work is..
